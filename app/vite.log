@@ -1,0 +1,15 @@
+
+> workout-heatmap@1.0.0 dev
+> vite --host --port 5175 --strictPort
+
+
+  VITE v5.4.20  ready in 92 ms
+
+  ➜  Local:   http://localhost:5175/
+  ➜  Network: http://192.168.0.122:5175/
+11:07:10 PM [vite] hmr update /src/App.jsx
+11:26:13 PM [vite] hmr update /src/App.jsx
+11:26:19 PM [vite] hmr update /src/App.jsx
+11:26:19 PM [vite] hmr update /src/App.jsx
+11:27:18 PM [vite] hmr update /src/App.jsx
+11:27:18 PM [vite] hmr update /src/App.jsx
